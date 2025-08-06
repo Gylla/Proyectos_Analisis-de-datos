@@ -1,17 +1,15 @@
 
-# Proyectos de análisis de datos
+# Conjunto de datos de calidad del aire de Delhi
 
-Recopilación de los proyectos donde pongo en práctica los procesos de ETL (Extraer, Transformar, Cargar) y EDA (Análisis Exploratorio de Datos).
+este Dataset contiene información acerca de las concentraciones de contaminación atmosfericas de Delhi. en las cuales se encuentra incluidos: PM2.5, PM10, NO2, CO y OZONO.
+
+a este conjunto de datos fue tomado de [KAGGLE](https://www.kaggle.com/datasets/kunshbhatia/delhi-air-quality-dataset), tras hacer la preparación de los datos, se le hizo el informe en looker studio. 
 
 
 ## Informes 
 
- - Looker Studio
- - Power Bi
+ - [Informe](https://lookerstudio.google.com/s/vJHMxd9JOOQ)
 
 
 
-## Autores
-
-- [@Gylla](https://github.com/Gylla)
 
