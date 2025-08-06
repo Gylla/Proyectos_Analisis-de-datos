@@ -11,7 +11,5 @@ Recopilación de los proyectos donde pongo en práctica los procesos de ETL (Ext
 
 
 
-## Autores
 
-- [@Gylla](https://github.com/Gylla)
 
