@@ -6,7 +6,7 @@ este Dataset contiene información acerca de las concentraciones de contaminaci�
 a este conjunto de datos fue tomado de [KAGGLE](https://www.kaggle.com/datasets/kunshbhatia/delhi-air-quality-dataset), tras hacer la preparación de los datos, se le hizo el informe en looker studio. 
 
 
-## Informes 
+## Informe
 
  - [Informe](https://lookerstudio.google.com/s/vJHMxd9JOOQ)
 
